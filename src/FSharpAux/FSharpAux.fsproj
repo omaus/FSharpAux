@@ -41,5 +41,6 @@
     <Compile Include="Set.fs" />
     <Compile Include="String.fs" />
     <Compile Include="Tree.fs" />
+    <Compile Include="Uri.fs" />
   </ItemGroup>
 </Project>
